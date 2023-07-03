@@ -41,12 +41,6 @@ def numTokens():
         n += 1
     return n
          
-
-
-
-
-
-
 # Abre el archivo en modo lectura
 archivo = open("tokenList.txt", "r")
 numero_de_tokens = numTokens()
